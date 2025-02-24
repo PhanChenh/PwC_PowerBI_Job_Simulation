@@ -63,7 +63,7 @@ Figure 2: Customer Return Analytics
 
 Figure 3: Customer Risk Analytics
 
-![Screenshot 2025-02-24 142303](https://github.com/user-attachments/assets/8aa6edce-fa94-46ca-aaf4-0fdb43e9bb8e)
+![Screenshot 2025-02-24 161903](https://github.com/user-attachments/assets/abc6288d-1e14-4f5d-b246-f57b6ae5e798)
 
 Figure 4: HR Analytics 1
 
