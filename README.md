@@ -39,6 +39,21 @@ The analysis was conducted in three main tasks:
 
 ## Key findings
 
+Call Center Performance:
+- Average speed to answer: 67.52s, average talk duration: 3m 45s, with 81.08% of calls answered.
+- Most agents meet performance benchmarks, with average answer speed around 66-70s and call resolution at ~72-73%.
+- Satisfaction rating is moderate at 3.4/5, and only 27.08% of calls are unresolved.
+
+Customer Return & Risk Analysis:
+- High churn rate of 26.54%, with month-to-month contracts showing the highest churn (42.7%).
+- Electronic check payment method has the highest churn rate among all methods.
+- Fiber optic service also shows a high churn rate of 41.9%.
+
+Diversity & Inclusion:
+- Female employees perform slightly better (2.42 vs. 2.41 for males).
+- Lower promotion rates for women at higher job levels.
+- Women are promoted faster than men in most roles, except at the executive and director levels.
+- Turnover rate is 10%, with male-dominated exits in strategy and HR.
 
 ## How to run code
 1. Load the Dataset: Import the dataset by loading the files from the repository
@@ -55,6 +70,10 @@ The analysis was conducted in three main tasks:
 
 Figure 1: Call Center Trend Dashboard
 
+Finding:
+- Visualized KPIs: call answer rates, resolution rates, satisfaction scores, and agent performance metrics.
+- Trends show consistent agent performance but room for improvement in customer satisfaction.
+
 ![Screenshot 2025-02-24 141736](https://github.com/user-attachments/assets/a0303c1b-b53e-411b-a27c-e8aac52f5e02)
 
 Figure 2: Customer Return Analytics
@@ -62,6 +81,10 @@ Figure 2: Customer Return Analytics
 ![Screenshot 2025-02-24 141748](https://github.com/user-attachments/assets/2b35ee22-e2c1-4efa-830b-3832e0d713f2)
 
 Figure 3: Customer Risk Analytics
+
+Finding:
+- Month-to-month contracts and electronic check payments have high churn.
+- Fiber optic service retention needs attention.
 
 ![Screenshot 2025-02-24 161903](https://github.com/user-attachments/assets/abc6288d-1e14-4f5d-b246-f57b6ae5e798)
 
@@ -71,7 +94,23 @@ Figure 4: HR Analytics 1
 
 Figure 5: HR Analytics 2 
 
+Finding:
+- Gender distribution by department and job level highlights promotion disparities.
+- Performance by gender and department suggests strategic roles need balanced gender representation.
+
 ## Recommendation
+
+For Call Center:
+- Implement training to boost call resolution rates and satisfaction scores.
+- Monitor underperforming agents and provide targeted coaching.
+
+For Customer Retention:
+- Offer incentives for long-term contracts to reduce month-to-month churn.
+- Introduce targeted retention strategies for customers using electronic check payments and fiber optic services.
+
+For Diversity & Inclusion:
+- Address gender disparities in promotions, especially at higher job levels.
+- Implement mentorship programs to support career growth for underrepresented groups.
 
 ## Contact
 
