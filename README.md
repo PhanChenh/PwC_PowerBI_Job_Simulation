@@ -51,6 +51,26 @@ The analysis was conducted in three main tasks:
 
 ## Results & Visualizations
 
+![Screenshot 2025-02-24 141714](https://github.com/user-attachments/assets/bdd26b10-b1a6-45f9-b1f4-6d67de337cd6)
+
+Figure 1: Call Center Trend Dashboard
+
+![Screenshot 2025-02-24 141736](https://github.com/user-attachments/assets/a0303c1b-b53e-411b-a27c-e8aac52f5e02)
+
+Figure 2: Customer Return Analytics
+
+![Screenshot 2025-02-24 141748](https://github.com/user-attachments/assets/2b35ee22-e2c1-4efa-830b-3832e0d713f2)
+
+Figure 3: Customer Risk Analytics
+
+![Screenshot 2025-02-24 142303](https://github.com/user-attachments/assets/8aa6edce-fa94-46ca-aaf4-0fdb43e9bb8e)
+
+Figure 4: HR Analytics 1
+
+![Screenshot 2025-02-24 142320](https://github.com/user-attachments/assets/1cadbd60-0c84-48cf-a197-c1c1dc1313b6)
+
+Figure 5: HR Analytics 2 
+
 ## Recommendation
 
 ## Contact
