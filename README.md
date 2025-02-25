@@ -66,6 +66,12 @@ Diversity & Inclusion:
 
 ## Results & Visualizations
 
+Interactive dashboard: [PwC_PoweBI_Job_Simulation_Call_Center_Analysis](https://app.powerbi.com/view?r=eyJrIjoiMWQ5NmQ1NmItNzIxNC00NmJlLWJjNmQtNDRiNTU2ZDZmZTI5IiwidCI6IjFkYTAyNjFjLTQ1ZjktNGI5MS04N2JiLTlkMGUzNzJlMmYwNiJ9)
+
+Interactive dashboard: [PwC_PoweBI_Job_Simulation_Customer_Retention_Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDY3N2E3NGQtMWUwMC00ZWY2LTkyNGEtNWYzNmRlYjZhZDgwIiwidCI6IjFkYTAyNjFjLTQ1ZjktNGI5MS04N2JiLTlkMGUzNzJlMmYwNiJ9)
+
+Interactive dashboard: [PwC_PoweBI_Job_Simulation_Diversity_&_Inclusion_Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGIxZjE0YWQtNDRlMy00NmFiLTgzYmItOWZiOGUzNjIzNmExIiwidCI6IjFkYTAyNjFjLTQ1ZjktNGI5MS04N2JiLTlkMGUzNzJlMmYwNiJ9)
+
 ![Screenshot 2025-02-24 141714](https://github.com/user-attachments/assets/bdd26b10-b1a6-45f9-b1f4-6d67de337cd6)
 
 Figure 1: Call Center Trend Dashboard
