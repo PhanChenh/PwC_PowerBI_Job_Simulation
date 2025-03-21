@@ -122,4 +122,4 @@ For Diversity & Inclusion:
 
 📧 Email: phanchenh99@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/phan-chenh-6a7ba127a/) | Portfolio
+🔗 [LinkedIn](https://www.linkedin.com/in/phan-chenh-6a7ba127a/) | [Portfolio](https://henh-phan-chenh.vercel.app/)
